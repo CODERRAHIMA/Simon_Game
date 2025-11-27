@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+}
+h1{
+    margin-top: 0px;
+    font-family: "Orbitron", sans-serif;
+}
+h3{
+    text-align: right;
+    margin-bottom: 0px;
+    margin-right: 20px;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.btn{
+    width: 140px;
+    height: 140px;
+    border: 6px solid black;
+    border-radius: 16px;
+    margin: 15px;
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+
+.flash{
+    background-color: white;
+}
